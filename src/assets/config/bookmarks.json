@@ -29,6 +29,23 @@
         }
       ]
   },
+    {
+    "title": "G弟全系及Gemini",
+    "items": [
+      {
+        "title": "G4/3.5/Gmini",
+        "link": "https://g.xinu.ink/"
+      },
+      {
+        "title": "Gmini",
+        "link": "https://mini.xinu.ink/"
+      },
+      {
+        "title": "Gmini备用",
+        "link": "https://gmini.xinu.ink/"
+      }
+    ]
+  },
   {
     "title": "致谢",
     "menuIcon": "💘",
