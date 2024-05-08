@@ -1,7 +1,7 @@
 [
   {
-    "title": "DuckDuckGo",
-    "link": "duckduckgo.com",
+    "title": "系统状态",
+    "link": "https://s.xinu.ink/",
     "menuIcon": "⭐"
   },
   {
@@ -9,16 +9,24 @@
     "link": "zh.wikipedia.org/wiki"
   },
   {
-    "title": "社区",
+    "title": "GPT们",
     "items": [
       {
-        "title": "Github",
-        "link": "github.com/trending"
+        "title": "主站🚉",
+        "link": "https://bing.xinu.ink/"
       },
       {
-        "title": "V2EX",
-        "link": "v2ex.com"
-      }
+        "title": "日本🇯🇵站",
+        "link": "https://japan.xinu.ink/"
+      },
+      {
+        "title": "冰岛🇮🇸站（推荐）",
+        "link": "https://ice.xinu.ink/"
+      },
+      {
+        "title": "新加坡🇸🇬站",
+        "link": "https://bing2.xinu.ink/"
+      },
     ]
   },
   {
@@ -26,29 +34,8 @@
     "menuIcon": "💘",
     "items": [
       {
-        "title": "Vue",
-        "link": "vuejs.org"
-      },
-      {
-        "title": "NaiveUI",
-        "link": "naiveui.com"
-      },
-      {
-        "title": "Vite",
-        "link": "vitejs.dev"
-      },
-      {
-        "title": "TypeScript",
-        "link": "typescriptlang.org"
-      },
-      {
-        "title": "CodeMirror",
-        "link": "codemirror.net"
-      },
-      {
-        "title": "FaviconKit",
-        "link": "faviconkit.com"
-      }
+        "title": "Best NAN",
+        "link": "https://s.xinu.ink/"
     ]
   }
 ]
